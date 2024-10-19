@@ -1,7 +1,6 @@
 name: MaintenancePlugin
 version: '1.0-SNAPSHOT'
 main: org.xianbei235.svPlugin.MaintenancePlugin
-api-version: '1.21'
 authors: [ xianbei235 ]
 description: 服务器维护插件
 commands:
